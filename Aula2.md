@@ -57,4 +57,10 @@ Estes são alguns dos **obstáculos**:
  - Procedimento administrativo complexo;
  - Risco elevado;
 
+## Forma jurídica
+- **Lda.** (limitada) - em caso de dívidas, só se perde o capital investido;
+
+## Internacionalização
+- **Born Global**: empresas que nascem com o objetivo de serem internacionais;
+- **Globalização**: empresas que se internacionalizam;
 
