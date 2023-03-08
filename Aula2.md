@@ -39,6 +39,7 @@ O GEM (*Global Entrepreneuriship Monitor*) é um estudo comparativo na UE para m
 As **motivações** são:
  - Empreendedorismo por necessidade;
  - Empreendedorismo por oportunidade;
+ - Empreendedorismo por autonomia;
 
 ## Fatores que influenciam a decisão de empreender
 Estes **fatores** são:
