@@ -49,16 +49,30 @@ Estes são  alguns dos principais pontos que devem ser abordados num plano de ne
  - Análise financeira;
  - Perfil de gestão;
 
+### Análise de mercado
+Genericamente, um estudo de mercado pretende responder às seguintes questões: 
+ 1. Dimensão do mercado;
+ 2. Evolução previsional do mercado;
+ 3. Dimensão qualitativa e quantitativa do mercado;
+ 4. Qualidade desejada pelos consumidores;
+ 5. Níveis de preço;
+ 6. Circuitos da distribuição;
+ 7. Ações promocionais;
+
+Nota: Existem duas perpetivas diferentes de análise de mercado que são a perpetiva **externa** (fora da empresa ou o meio envolvente) e a perpetiva **interna** (dentro da empresa).
+
 ### Plano marketing
 Para descrever o plano de marketing, deve-se utilizar o modelo **4P**:
-  - Produto;
-  - Promoção;
-  - Preço;
-  - Ponto de distribuição;
+  - Produto: definir claramente o produto ou serviço que produz e/ou vende;
+  - Promoção: como divulgar o produto/serviço ao mercado;
+  - Preço: definir o preço e as condições de venda;
+  - Ponto de distribuição: qual a via a utilizar para que o produto/serviço chegue ao cliente;
 
 
 ## Código de atividade económica (CAE)
 
+## Análise SWOT
+É a analise de forças, fraquezas, oportunidades e ameaças. É uma ferramenta de gestão estratégica que permite identificar os pontos fortes e fracos de uma empresa, bem como as oportunidades e ameaças do seu meio ambiente.
 
 
 
