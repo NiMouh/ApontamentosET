@@ -59,7 +59,7 @@ Genericamente, um estudo de mercado pretende responder às seguintes questões:
  6. Circuitos da distribuição;
  7. Ações promocionais;
 
-Nota: Existem duas perpetivas diferentes de análise de mercado que são a perpetiva **externa** (fora da empresa ou o meio envolvente) e a perpetiva **interna** (dentro da empresa).
+Nota: Existem duas perpetivas diferentes de análise de mercado que são a perpetiva **externa** (procura) e a perpetiva **interna** (oferta).
 
 ### Plano marketing
 Para descrever o plano de marketing, deve-se utilizar o modelo **4P**:
@@ -73,6 +73,19 @@ Para descrever o plano de marketing, deve-se utilizar o modelo **4P**:
 
 ## Análise SWOT
 É a analise de forças, fraquezas, oportunidades e ameaças. É uma ferramenta de gestão estratégica que permite identificar os pontos fortes e fracos de uma empresa, bem como as oportunidades e ameaças do seu meio ambiente.
+
+## Estratégia de negócio
+É a forma como a empresa pretende alcançar os seus objetivos. É um conjunto de ações que a empresa pretende realizar para atingir os seus objetivos. Temos as seguintes tipologias de exemplo:
+ - Estratégia de *Ansoff*: 
+   - Percentação de mercado;
+   - Desenvolvimento de novos produtos;
+   - Desenvolvimento de novos mercados;
+   - Diversificação;
+ - Estratégia de *Porter*:
+   - Liderança de custos;
+   - Diferenciação;
+   - Foco;
+   - Segmentação;
 
 
 
