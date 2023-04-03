@@ -1,6 +1,8 @@
 # Aula 6
 
 ## Plano Operativo (ou de Produção)
+O plano Operativo detalha as atividades e processos operacionais que a empresa deve realizar para atingir seus objetivos e metas de negócios. Esse plano inclui informações sobre as operações diárias, o processo de produção, o gerenciamento de estoque, o gerenciamento de fornecedores, o controle de qualidade, as políticas de preços e muito mais. Em resumo, o plano operacional descreve como a empresa produzirá e entregará seu produto ou serviço.
+
 Para a elaboração do plano operativo, é necessário ter em conta a previsão de vendas e a necessidade de produção.
 
 ### Tipos de produção
@@ -10,7 +12,7 @@ Estes são os tipos de produção mais comuns:
  - Série;
 
 ## Plano de Recursos Humanos
-O plano de recursos humanos é um documento que descreve as necessidades de recursos humanos da empresa, bem como as estratégias para a sua aquisição e gestão.
+O plano de recursos humanos detalha as atividades e processos operacionais que a empresa deve realizar para atingir seus objetivos e metas de negócios. Esse plano inclui informações sobre as operações diárias, o processo de produção, o gerenciamento de estoque, o gerenciamento de fornecedores, o controle de qualidade, as políticas de preços e muito mais. Em resumo, o plano operacional descreve como a empresa produzirá e entregará seu produto ou serviço.
 
 Existem duas **categorias** de meios humanos:
  - A equipa dirigente;
