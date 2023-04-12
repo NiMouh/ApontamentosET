@@ -74,18 +74,25 @@ Para descrever o plano de marketing, deve-se utilizar o modelo **4P**:
 ## Análise SWOT
 É a analise de forças, fraquezas, oportunidades e ameaças. É uma ferramenta de gestão estratégica que permite identificar os pontos fortes e fracos de uma empresa, bem como as oportunidades e ameaças do seu meio ambiente.
 
-## Estratégia de negócio
-É a forma como a empresa pretende alcançar os seus objetivos. É um conjunto de ações que a empresa pretende realizar para atingir os seus objetivos. Temos as seguintes tipologias de exemplo:
- - Estratégia de *Ansoff*: 
-   - Percentação de mercado;
-   - Desenvolvimento de novos produtos;
-   - Desenvolvimento de novos mercados;
-   - Diversificação;
- - Estratégia de *Porter*:
-   - Liderança de custos;
-   - Diferenciação;
-   - Foco;
-   - Segmentação;
+## Estratégia
+Melhor foma de atingir os objetivos.
+
+Existem duas topologias de estratégias:
+ - Ansoff;
+ - Porter;
+
+### Ansoff
+Existem quatro tipos de estratégias:
+ - Mercado;
+ - Produtos;
+ - Diversificação;
+ - Desenvolvimento de mercado;
+
+### Porter
+Existe três tipos de estratégias:
+ - Liderança de custos;
+ - Diferenciação;
+ - Foco de concentração;
 
 
 
