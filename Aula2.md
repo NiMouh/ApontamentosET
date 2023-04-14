@@ -30,7 +30,7 @@ Nota: PME é um conceito europeu que engloba pequenas e médias empresas.
 ## Relatório GEM
 O GEM (*Global Entrepreneuriship Monitor*) é um estudo comparativo na UE para medir atividade empreendedora.
 
-## TEA Index
+## TEA Index (Total Early Activity)
 Índice que mede a atividade empreendedora total em:
  - Empresários em lançamento;
  - Novas empresas;
@@ -60,6 +60,7 @@ Estes são alguns dos **obstáculos**:
 
 ## Forma jurídica
 - **Lda.** (limitada) - em caso de dívidas, só se perde o capital investido;
+- **SA** (sociedade anónima) - o capital social é dividido em ações e seus acionistas têm responsabilidade limitada ao valor das ações que possuem.
 
 ## Internacionalização
 - **Born Global**: empresas que nascem com o objetivo de serem internacionais;
