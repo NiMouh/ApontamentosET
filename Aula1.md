@@ -9,7 +9,7 @@ Para a primeira frequência, o programa é o seguinte:
   5. O Plano de Negócio/Empresa
   6. Estratégias de Entrada na Função Empresarial
   7. O Fomento ao Empreendedorismo e à Criação de Empresas
-  8.  Trâmite Legais para a Criação de Empresas
+  8. Etapas Legais para a Criação de Empresas
 
 ## Empreendedorismo e Criação de Empresas: Alguns conceitos e fundamentos
 
@@ -26,7 +26,7 @@ Estas são algumas das palavras-chave associadas ao empreendedorismo:
   - Competitividade;
 
 ### Definição Empreendedorismo
-Toda a atividade cujo objetivo é criar, desenvolver e gerir um negócio, com o objetivo de obter lucro, quer no interior de uma empresa, quer como empresário individual ou em parceria com outros. Um empreendedor é um **agente de mudança**.
+Toda a atividade cujo objetivo é criar, desenvolver e gerir um negócio, para obter lucro, quer no interior de uma empresa, quer como empresário individual ou em parceria com outros. Um empreendedor é um **agente de mudança**.
 
 ### Níveis de empreendedorismo
 Existem três objetos de estudo do empreendedorismo:
@@ -36,8 +36,8 @@ Existem três objetos de estudo do empreendedorismo:
 
 ### Empreendedorismo colaborativo vs Empreendedorismo coletivo
 A diferença entre estes dois conceitos é que:
-  - Empreendedorismo colaborativo: é uma forma de empreendedorismo que se baseia na colaboração entre **empresas**, com o objetivo de criar valor para os clientes e para as empresas envolvidas;
-  - Empreendedorismo coletivo: é uma forma de empreendedorismo que se baseia na colaboração entre **individuos**, com o objetivo de criar valor para os clientes e para os indivíduos envolvidos;
+  - Empreendedorismo colaborativo: é uma forma de empreendedorismo que se baseia na colaboração entre **empresas**, visando criar valor para os clientes e para as empresas envolvidas;
+  - Empreendedorismo coletivo: é uma forma de empreendedorismo que se baseia na colaboração entre **indivíduos**, para criar valor para os clientes e para os indivíduos envolvidos;
 
 ### Empreendedorismo tecnológico vs Empreendedorismo digital
 São conceitos semelhantes, mas não sinónimos:
@@ -45,7 +45,7 @@ São conceitos semelhantes, mas não sinónimos:
   - Empreendedorismo digital refere-se à criação e desenvolvimento de negócios que se baseiam em **tecnologias digitais**, como a Internet, para fornecer produtos e serviços.
 
 ### Empreendedor interno / intraempreendedor
-É um indivíduo que tem a capacidade de **inovar** e **empreender** dentro de uma empresa, com o objetivo de criar valor para a empresa e para os seus clientes.
+É um indivíduo que consegue **inovar** e **empreender** numa empresa, visando criar valor para a empresa e para os seus clientes.
 
 #### Níveis de inovação
 Existem 3 níveis de inovação:
@@ -53,13 +53,13 @@ Existem 3 níveis de inovação:
   - No processo;
   - Na organização (organizacional);
 
-Nota: Inovação != Invenção -> Inovação é a aplicação de uma invenção.
+Nota: Inovação != Invenção → Inovação é a aplicação de uma invenção.
 
 ### Pilares do empreendedorismo
 Existem três principais componentes do empreendedorismo:
   - Inovação;
   - Risco;
-  - Proatividade;
+  - Pro atividade;
 
 ### Ciclo de vida de uma empresa (função sigmoide)
 Este é o ciclo de vida de uma empresa, que é uma função sigmoide:
