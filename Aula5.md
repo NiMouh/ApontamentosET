@@ -25,19 +25,19 @@ As ideias normalmente originam-se de:
 ## Plano de negócio
 
 ### O que é um plano de negócio?
-É um documento que sistematiza a informação sobre a ideia de negócio, como se pretende implementá-la e que resultados se espera obter no futuro. Tem como objetivo **avaliar**, **antecipar** e **minimizar** os riscos associados à criação de uma empresa.
+É um documento que sistematiza a informação sobre a ideia de negócio, como se pretende implementá-la e que resultados se espera obter no futuro. Pretende **avaliar**, **antecipar** e **minimizar** os riscos associados à criação de uma empresa.
 
 ### Tarefas para a elaboração de um plano de negócio
-- Análise a *priori*: Recolhe-se informação sobre o mercado, a concorrência, os clientes, os fornecedores, os custos, os recursos humanos, etc.
-- Plano em si: Conjunção dos dados recolhidos na análise a *priori*.
+- Análise a *‘priori’*: Recolhe-se informação sobre o mercado, a concorrência, os clientes, os fornecedores, os custos, os recursos humanos, etc.
+- Plano em si: Conjunção dos dados recolhidos na análise a *‘priori’*.
 - Avaliação de resultados: Avaliação da rendibilidade e os resultados obtidos com a implementação do plano.
 
 ### O que deve conter um plano de negócio?
-Estes são  alguns dos principais pontos que devem ser abordados num plano de negócio:
- - Sumário executivo:
+Estes são alguns dos principais pontos que devem ser abordados num plano de negócio:
+- Sumário executivo:
     - Objetivos;
     - Conceito do negócio;
-	- Dados financeiros;
+  - Dados financeiros;
     - Necessidades de financiamento;
     - Situação atual;
     - Expectativas de crescimento;
@@ -45,24 +45,24 @@ Estes são  alguns dos principais pontos que devem ser abordados num plano de ne
  - Apresentação da empresa;
  - Análise do produto/serviço;
  - Análise do mercado;
- - Estrategia de *marketing*;
+ - Estratégia de *‘marketing’*;
  - Análise financeira;
  - Perfil de gestão;
 
 ### Análise de mercado
 Genericamente, um estudo de mercado pretende responder às seguintes questões: 
  1. Dimensão do mercado;
- 2. Evolução previsional do mercado;
+ 2. Evolução provisional do mercado;
  3. Dimensão qualitativa e quantitativa do mercado;
  4. Qualidade desejada pelos consumidores;
  5. Níveis de preço;
  6. Circuitos da distribuição;
  7. Ações promocionais;
 
-Nota: Existem duas perpetivas diferentes de análise de mercado que são a perpetiva **externa** (procura) e a perpetiva **interna** (oferta).
+Nota: Existem duas perspetivas diferentes de análise de mercado que são a perspetiva **externa** (procura) e a perspetiva **interna** (oferta).
 
-### Plano marketing
-Para descrever o plano de marketing, deve-se utilizar o modelo **4P**:
+### Plano ‘marketing’
+Para descrever o plano de ‘marketing’, deve-se utilizar o modelo **4P**:
   - Produto: definir claramente o produto ou serviço que produz e/ou vende;
   - Promoção: como divulgar o produto/serviço ao mercado;
   - Preço: definir o preço e as condições de venda;
@@ -72,10 +72,10 @@ Para descrever o plano de marketing, deve-se utilizar o modelo **4P**:
 ## Código de atividade económica (CAE)
 
 ## Análise SWOT
-É a analise de forças, fraquezas, oportunidades e ameaças. É uma ferramenta de gestão estratégica que permite identificar os pontos fortes e fracos de uma empresa, bem como as oportunidades e ameaças do seu meio ambiente.
+É a análise de forças, fraquezas, oportunidades e ameaças. É uma ferramenta de gestão estratégica que permite identificar os pontos fortes e fracos de uma empresa, bem como as oportunidades e ameaças do seu meio ambiente.
 
 ## Estratégia
-Melhor foma de atingir os objetivos.
+Melhor forma de atingir os objetivos.
 
 Existem duas topologias de estratégias:
  - Ansoff;

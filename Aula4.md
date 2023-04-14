@@ -31,3 +31,4 @@ Existem dois tipos de perfil de empreendedor:
 Existem 3 motivações para surgirem empreendedores:
  - Antecedentes (e.g. infancia dura, idade, formação);
  - Meio envolvente (e.g. marginalização, desemprego, etc);
+ - Realização pessoal (e.g. realização pessoal, etc);
