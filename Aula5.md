@@ -77,7 +77,7 @@ Para descrever o plano de ‘marketing’, deve-se utilizar o modelo **4P**:
 ## Estratégia
 Melhor forma de atingir os objetivos.
 
-Existem duas topologias de estratégias:
+Existem duas tipologias de estratégias:
  - Ansoff;
  - Porter;
 
