@@ -14,20 +14,20 @@
 ## Forma jurídica
 Existem dois grupos:
  - **Individual**;
- - **Sociadade**;
+ - **Sociedade**;
 
 ### Sociedade
 As formas mais frequentes são:
  - Sociedade por quotas;
  - Sociedade unipessoal por quotas;
- - Sociedade Anónima: tem no mínimo 5 acionistas e capital inicial mínimo de 50.000€;
+ - Sociedade Anónima: tem no mínimo 5 acionistas e capital inicial mínimo de 50.000 €;
 
 ## Responsabilidade
 Existem dois tipos frequentes de responsabilidade empresarial:
  - **Limitada**: só se responsabiliza pelo capital subscrito;
  - **Ilimitada**: responsabiliza-se por todo o capital social;
 
-## Dificuldades de inicio da atividade
+## Dificuldades de início da atividade
 Alguns exemplos de dificuldades:
  - Conflitos de sócios;
  - Desenvolvimento de produto/serviço;

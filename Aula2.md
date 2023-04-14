@@ -1,9 +1,9 @@
 # Aula 2 - Dimensão de uma empresa
 
-## O que diferencia uma pequena empresa de uma média/grande empresa?
+## Diferenciando uma pequena empresa de uma média/grande empresa?
 
 Os critérios **quantitativos** são:
- - Nº de funcionários;
+ - Número de funcionários;
  - Volume de vendas;
  - Valor de ativos (ou patrimonial);
 
@@ -35,7 +35,7 @@ O GEM (*Global Entrepreneuriship Monitor*) é um estudo comparativo na UE para m
  - Empresários em lançamento;
  - Novas empresas;
 
-##  Motivações para empreender
+## Motivações para empreender
 As **motivações** são:
  - Empreendedorismo por necessidade;
  - Empreendedorismo por oportunidade;
@@ -60,9 +60,8 @@ Estes são alguns dos **obstáculos**:
 
 ## Forma jurídica
 - **Lda.** (limitada) - em caso de dívidas, só se perde o capital investido;
-- **SA** (sociedade anónima) - o capital social é dividido em ações e seus acionistas têm responsabilidade limitada ao valor das ações que possuem.
+- **SA** (sociedade anónima) - o capital social é dividido em ações e os seus acionistas têm responsabilidade limitada ao valor das ações que possuem.
 
 ## Internacionalização
-- **Born Global**: empresas que nascem com o objetivo de serem internacionais;
+- **Born Global**: empresas que nascem para serem internacionais;
 - **Globalização**: empresas que se internacionalizam;
-

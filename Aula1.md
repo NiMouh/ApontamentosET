@@ -44,7 +44,7 @@ São conceitos semelhantes, mas não sinónimos:
   - Empreendedorismo tecnológico refere-se à criação e desenvolvimento de negócios que se baseiam em **tecnologias avançadas**, como inteligência artificial, robótica, biotecnologia ou nanotecnologia, para fornecer produtos e serviços.
   - Empreendedorismo digital refere-se à criação e desenvolvimento de negócios que se baseiam em **tecnologias digitais**, como a Internet, para fornecer produtos e serviços.
 
-### Empreendedor interno / intraempreendedor
+### Empreendedor interno /  intra empreendedor
 É um indivíduo que consegue **inovar** e **empreender** numa empresa, visando criar valor para a empresa e para os seus clientes.
 
 #### Níveis de inovação
