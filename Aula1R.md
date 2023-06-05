@@ -35,9 +35,17 @@ Um gestor é uma pessoa que gere uma equipa de pessoas para atingir um objetivo 
 
 ## Aptidões de um Gestor
 Estas são algumas das suas aptidões:
- - **Capacidade** conceptual de ver a *big picture* (visão global) da organização;
- - **Capacidade** de relações humanas;
- - **Capacidade** técnica;
+ - **Aptidão conceptual** de ver a *big picture* (visão global) da organização;
+ - **Aptidão de relações humanas**: Capacidade de se relacionar com as pessoas;
+ - **Aptidão técnica**: Capacidade de ter conhecimentos técnicos;
+
+### Exercicio de aptidões
+ - Arranjo de uma avaria na máquina: Aptidão técnica.
+ - Análise da concorrência no setor: Aptidão conceptual.
+ - Resolução de um conflito entre dois trabalhadores: Relações humanas.
+ - Análise do impacto dos gastos do departamento nas despesas globais: Aptidão conceptual.
+ - Acolhimento de um novo funcionário: Relações humanas.
+ - Uso de software que permite evitar desperdícios: Aptidão técnica.
 
 ## Categorias de um Gestor
 Estas são as **categorias** de um gestor:
