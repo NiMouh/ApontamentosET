@@ -81,21 +81,21 @@ Estes são os tamanhos de organizações que existem:
 O gestor de produto, no sentido de avaliar o potencial de lançamento de um novo produto, recolhe opiniões de potenciais compradores para desenvolver o projeto.
 
 O Papel de Mintzberg:
- - [ ] Interpessoal;
- - [ ] Informacional;
- - [x] Decisão;
+ - [x] Interpessoal;
+ - [x] Informacional;
+ - [ ] Decisão;
 
 Função da gestão:
- - [ ] Planeamento;
- - [ ] Organização;
- - [x] Direção;
+ - [x] Planeamento;
+ - [x] Organização;
+ - [ ] Direção;
  - [ ] Controlo;
 
 Ação do Gestor de Peter Drucker:
  - [ ] Liderança;
  - [ ] Decisão;
- - [x] Motivação;
- - [ ] Comunicação;
+ - [ ] Motivação;
+ - [x] Comunicação;
 
 Aptidão:
  - [ ] Conceitual;
@@ -106,19 +106,19 @@ Aptidão:
 A máquina da secção X está com problemas e o chefe da secção, para que o trabalho não pare, tem que resolvê-los.
 
 O Papel de Mintzberg:
- - [x] Interpessoal;
+ - [ ] Interpessoal;
  - [ ] Informacional;
- - [ ] Decisão;
+ - [x] Decisão;
 
 Função da gestão:
  - [ ] Planeamento;
  - [ ] Organização;
  - [x] Direção;
- - [ ] Controlo;
+ - [x] Controlo;
 
 Ação do Gestor de Peter Drucker:
  - [x] Liderança;
- - [ ] Decisão;
+ - [x] Decisão;
  - [ ] Motivação;
  - [ ] Comunicação;
 
