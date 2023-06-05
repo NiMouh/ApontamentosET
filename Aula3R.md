@@ -13,6 +13,15 @@ Para que um objetivo seja SMART, tem de ser:
  - Relevante
  - Temporal
 
+#### Exercício de objetivos SMART
+Exemplo 1 • Em e-commerce: aumentar a base de leads
+que se registam no site, ao reduzir os preços dos produtos
+em 25%, até ao final do ano. É SMART?
+R: Sim, é Específico (querer aumentar a base de leads), mensurável (até ao fim do ano), atingível, relevante, temporal
+Exemplo 2 • Contratar mais 5 pessoas até dezembro deste
+ano. É SMART?
+R: Não, não é específico, por exemplo.
+
 ### Tipos de objetivos
 Estes são os tipos de objetivos que existem:
  - Económicos;
