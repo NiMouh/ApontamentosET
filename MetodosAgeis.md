@@ -187,3 +187,16 @@ O ciclo do spring é o seguinte:
 # Vantagens destes métodos face à gestão de projetos
 Qualquer um destes métodos permite uma maior flexibilidade e adaptabilidade face à gestão de projetos, permitindo uma maior eficiência e eficácia na gestão de projetos. Reduzindo também o desperdício de recursos e tempo.
 
+# Diferenças entre eles:
+Diferenças entre os métodos ágeis, Lean, Kanban, Scrum, Sprints e OKR:
+
+**Lean**: O Lean é uma abordagem que busca eliminar desperdícios e otimizar processos. Ele enfatiza a melhoria contínua e a maximização do valor para o cliente, eliminando atividades que não agregam valor. O Lean pode ser aplicado em várias áreas, incluindo produção, desenvolvimento de produtos e gestão de projetos.
+
+**Kanban**: Kanban é um sistema visual de gestão de fluxo de trabalho. Ele utiliza quadros ou painéis para visualizar e controlar as tarefas em andamento. Cada tarefa é representada por um cartão e o progresso é rastreado em colunas, indicando em qual etapa cada tarefa se encontra. O Kanban permite um fluxo de trabalho contínuo e limita o trabalho em progresso para melhorar a eficiência.
+
+**Scrum**: Scrum é um ‘*framework*’ ágil para gestão de projetos. Ele divide o trabalho em iterações chamadas sprints, geralmente com duração fixa de 1 a 4 semanas. O Scrum enfatiza a colaboração, transparência e adaptação contínua. Possui papéis definidos, como o *Product Owner*, *Scrum Master* e a Equipa de Desenvolvimento, que trabalham juntos para entregar incrementos de valor a cada sprint.
+
+**Sprints**: Sprints são iterações fixas de tempo no Scrum, normalmente de curta duração, em que as tarefas são realizadas. Durante um sprint, a equipa se concentra em completar as atividades planejadas para atingir o objetivo específico definido no início. No final de cada sprint, ocorre uma revisão e retrospetiva para analisar os resultados e fazer ajustes para o próximo sprint.
+
+**OKR** (*Objectives and Key Results*): OKR é uma metodologia de definição de metas e acompanhamento de resultados. Ela envolve a definição de objetivos claros e ambiciosos e a identificação de resultados-chave mensuráveis que indicam o progresso em direção a esses objetivos. O OKR é utilizado para alinhar equipes e indivíduos em torno de metas comuns, promovendo o foco e o engajamento.
+
