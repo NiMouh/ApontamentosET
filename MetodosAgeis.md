@@ -187,7 +187,17 @@ O ciclo do spring é o seguinte:
 # Vantagens destes métodos face à gestão de projetos
 Qualquer um destes métodos permite uma maior flexibilidade e adaptabilidade face à gestão de projetos, permitindo uma maior eficiência e eficácia na gestão de projetos. Reduzindo também o desperdício de recursos e tempo.
 
+
 # Diferenças entre eles:
+Métodos Ágeis:
+Os métodos ágeis são abordagens colaborativas e iterativas para o desenvolvimento de projetos e produtos. Eles priorizam a flexibilidade, a adaptação contínua e a entrega de valor de forma incremental ao longo do tempo. Os métodos ágeis enfatizam a comunicação, a colaboração e a resposta rápida às mudanças, em contraste com os métodos tradicionais de gestão de projetos.
+
+*Roadmap*:
+Um *roadmap* é uma representação visual de alto nível que descreve as principais metas, direções e marcos de um produto ou projeto ao longo do tempo. Ele fornece uma visão geral estratégica do planeamento e ajuda a alinhar as atividades e recursos necessários para alcançar essas metas. O *roadmap* pode incluir diferentes fases, recursos, prazos e dependências, ajudando a guiar o desenvolvimento do produto.
+
+*Storymap*:
+Um *storymap* é uma técnica para planeamento e priorização de recursos num produto. Ele organiza as funcionalidades numa linha do tempo horizontal, com as necessidades do utilizador numa dimensão vertical. O *storymap* fornece uma visão geral estruturada e sequencial do desenvolvimento do produto, ajudando a entender o fluxo de trabalho do utilizador e a priorizar as histórias que serão implementadas.
+
 Diferenças entre os métodos ágeis, Lean, Kanban, Scrum, Sprints e OKR:
 
 **Lean**: O Lean é uma abordagem que busca eliminar desperdícios e otimizar processos. Ele enfatiza a melhoria contínua e a maximização do valor para o cliente, eliminando atividades que não agregam valor. O Lean pode ser aplicado em várias áreas, incluindo produção, desenvolvimento de produtos e gestão de projetos.
